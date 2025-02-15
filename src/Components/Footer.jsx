@@ -88,7 +88,7 @@ const Footer = () => {
             </div>
 <hr />
 <div className="row mb-5">
-    <div className="col-12 text-center"><AiOutlineCopyright/>All information is gathered from internet and keonjhar officals</div>
+    <div className="col-12 text-center"><AiOutlineCopyright/>All information is gathered from internet and keonjhar offical site</div>
     <div className="col-6 text-center mt-4">Designed &Developed<BsFillHeartFill className="text-danger"/> by Tufail Akram</div>
     <div className="col-6 text-center mt-4">Thank you for <FaHandsHelping className="text-success"/> visiting our website </div>
 </div>
